@@ -27,7 +27,7 @@ class f:
         return (sf-a*(s+f.eta)/(2*l)-(l**2+h**2)*g/(4*l*f.tanh(a*g/(2*(s+f.eta))))-(sf-a*s/(2*l)-(l**2+h**2)*g/(4*l*f.tanh(a*g/(2*s)))))/f.eta
     @classmethod
     def f32(cls,a,h,l,s,g,sf):
-    #d/a
+    #d/aa
         return ( sf-(a+f.eta)*s/(2*l)-(l**2+h**2)*g/(4*l*f.tanh((a+f.eta)*g/(2*s)))- (sf-a*s/(2*l)-(l**2+h**2)*g/(4*l*f.tanh(a*g/(2*s)))))/f.eta
     @classmethod
     def f33(cls,a,h,l,s,g,sf):
