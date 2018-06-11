@@ -13,7 +13,7 @@ class f:
         return (l-f.sqrt(h**2+(2*s*f.sinh((a+f.eta)*g/2/s)/g)**2))/f.eta-(l-f.sqrt(h**2+(2*s*f.sinh(a*g/2/s)/g)**2))/f.eta
     @classmethod
     def f21(cls,a,h,l,s,g,sf):
-    #d/l
+    #d/ll
         return  (sf-a*s/(2*(l+f.eta))-((l+f.eta)**2+h**2)*g/(4*(l+f.eta)*f.tanh(a*g/(2*s)))-(sf-a*s/(2*l)-(l**2+h**2)*g/(4*l*f.tanh(a*g/(2*s)))))/f.eta
     @classmethod
     def f22(cls,l,l0,t,t0,al,sf,sf0,e):
