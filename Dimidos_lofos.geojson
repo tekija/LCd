@@ -1,0 +1,213 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "GR_DidimosLofos_wind_1",
+        "h": 80,
+        "p": 2,
+        "t": "Vestas V80"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.940786923801348,
+          41.17320004783111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "GR_DidimosLofos_wind_2",
+        "h": 80,
+        "p": 2,
+        "t": "Vestas V80"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.93860538497779,
+          41.16875120928262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "GR_DidimosLofos_wind_3",
+        "h": 80,
+        "p": 2,
+        "t": "Vestas V80"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.92835352395548,
+          41.16587891413749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "GR_DidimosLofos_wind_4",
+        "h": 80,
+        "p": 2,
+        "t": "Vestas V80"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.93273158707676,
+          41.16559834641786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "GR_DidimosLofos_wind_5",
+        "h": 80,
+        "p": 2,
+        "t": "Vestas V80"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.943467124210358,
+          41.16385940421739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "GR_DidimosLofos_wind_6",
+        "h": 80,
+        "p": 2,
+        "t": "Vestas V80"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.90165400212543,
+          41.16051327602841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "GR_DidimosLofos_wind_7",
+        "h": 80,
+        "p": 2,
+        "t": "Vestas V80"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.90277188885373,
+          41.15836909899904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "GR_DidimosLofos_wind_8",
+        "h": 80,
+        "p": 2,
+        "t": "Vestas V80"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.90439730253129,
+          41.1564687215134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "GR_DidimosLofos_wind_9",
+        "h": 80,
+        "p": 2,
+        "t": "Vestas V80"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.912536141502382,
+          41.15520792903121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "GR_DidimosLofos_wind_10",
+        "h": 80,
+        "p": 2,
+        "t": "Vestas V80"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.90666055250788,
+          41.15519727670194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "GR_DidimosLofos_wind_11",
+        "h": 80,
+        "p": 2,
+        "t": "Vestas V80"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.909447361683405,
+          41.15513308606852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "GR_DidimosLofos_wind_12",
+        "h": 80,
+        "p": 2,
+        "t": "Vestas V80"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.91539126395712,
+          41.15503437291158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "GR_DidimosLofos_wind_13",
+        "h": 80,
+        "p": 2,
+        "t": "Vestas V80"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.91802907327666,
+          41.154765286151886
+        ]
+      }
+    }
+  ]
+}
